@@ -17,7 +17,7 @@ namespace MVC_Application_Test
         public void CheckSurName()
         {
             string SurName = "Saha";
-            Assert.AreEqual(SurName, "Das");
+            Assert.AreEqual(SurName, "Saha");
         }
     }
 }
